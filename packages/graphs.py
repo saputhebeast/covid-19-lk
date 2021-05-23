@@ -21,6 +21,3 @@ def confirmedCases():
 def recovered():
     fig = px.line(df, x = 'date', y = 'recovered', title='Recovered')
     fig.show()
-
-confirmedCases()
-recovered()

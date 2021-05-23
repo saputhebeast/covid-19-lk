@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&family=Raleway:wght@600&display=swap');
+
+.data_table {
+    font-family: 'Raleway', sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.data_table td, .data_table th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+.data_table tr:nth-child(even){background-color: #f2f2f2;}
+
+.data_table tr:hover {background-color: #ddd;}
+
+.data_table th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #db482e;
+    color: white;
+}
