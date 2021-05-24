@@ -17,7 +17,8 @@
     <li>In observation</li>
     <li>Total PCR Tests</li>
     <li>New Local Deaths in Last 24 Hours</li>
-    <li>Users can view above data from January 22, 2021 to present day with graphs.</li>
+  </ul>
+  <li>Users can view above data from January 22, 2021 to present day with graphs.</li>
 </ul>
  
 <h2>Resources</h2>
