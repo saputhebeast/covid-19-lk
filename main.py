@@ -6,6 +6,7 @@ import packages.pcrTesting
 import packages.hospitalData
 
 root = Tk()
+root.iconbitmap(default="./data/sri_lanka_flag.ico")
 root.geometry("830x930")
 root.title("Corona Tracking App")
 root.configure(background='black')
