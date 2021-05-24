@@ -1,2 +1,4 @@
 prettytable==2.1.0
 requests==2.25.1
+pandas==1.2.4
+plotly==4.14.3
